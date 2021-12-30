@@ -1,6 +1,7 @@
 * {
     background-color: rgb(139, 230, 233);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: AvenirNextLTW02-Medium - 400;
+    margin: 0px;
 }
 
 h1 {
@@ -19,4 +20,15 @@ li {
     padding: 25px;
     text-align: left;
     font-size: 20px;
+}
+
+h2 {
+    padding: 50px;
+    text-align: center;
+    font-size: 25px;
+}
+
+img {
+    width: 100%;
+    padding: 0px;
 }
